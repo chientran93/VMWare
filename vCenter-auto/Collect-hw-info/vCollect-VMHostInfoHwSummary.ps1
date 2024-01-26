@@ -1,18 +1,3 @@
-##=================================================================================
-##       Project:  vCollect Hardware Info  By ESXi for each vCenter
-##        AUTHOR:  SADDAM ZEMMALI
-##         eMail:  saddam.zemmali@gmail.com
-##       CREATED:  06.01.2019 02:03:01
-##      REVISION:  --
-##       Version:  1.2  ¯\_(ツ)_/¯
-##    Repository:  https://github.com/szemmali/vmware-collect
-##          Task:   vCollect Hardware Info  By ESXi for each vCenter
-##          FILE:  vCollect-Storage-ByPartition-ByvCenter.ps1
-##   Description:  vCollect Hardware Info  By ESXi for each vCenter
-##   Requirement:  --
-##          Note:  Connect With USERNAME/PASSWORD Credential 
-##          BUGS:  Set-ExecutionPolicy -ExecutionPolicy Bypass
-##=================================================================================
 #################################
 #  vCollect Targeting Variables # 
 ################################# 
